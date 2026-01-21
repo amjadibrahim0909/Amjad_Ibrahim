@@ -11,13 +11,13 @@ Ich entwickle skalierbare Backend-Systeme und lege besonderen Wert auf saubere A
 Ein vollständiges E-Commerce Backend mit allen wesentlichen Funktionen eines Online-Shops.
 
 ** Features:**
-- ✅ **Produktverwaltung** - CRUD-Operationen mit DTOs und Mappern
-- ✅ **Warenkorb-System** - Intelligenter Warenkorb mit Preisberechnung
-- ✅ **Benutzerverwaltung** - Registrierung und Profilverwaltung
-- ✅ **Bestellabwicklung** - Vom Warenkorb zur Bestellung
-- ✅ **RESTful API** - Clean API Design mit HATEOAS-Prinzipien
-- ✅ **Validierung** - Umfassende Input-Validierung
-- ✅ **Fehlerbehandlung** - Konsistente Fehlerantworten
+-  **Produktverwaltung** - CRUD-Operationen mit DTOs und Mappern
+-  **Warenkorb-System** - Intelligenter Warenkorb mit Preisberechnung
+-  **Benutzerverwaltung** - Registrierung und Profilverwaltung
+-  **Bestellabwicklung** - Vom Warenkorb zur Bestellung
+-  **RESTful API** - Clean API Design mit HATEOAS-Prinzipien
+-  **Validierung** - Umfassende Input-Validierung
+-  **Fehlerbehandlung** - Konsistente Fehlerantworten
 
 ** Technologien:**
 - Java 17, Spring Boot 3.x, Spring Data JPA
@@ -95,7 +95,7 @@ Demonstration einer verteilten Microservices-Architektur mit:
 
 ##  Kontakt
 
-**📧 Email:** [amjad.ibrahim0909@gmail.com](mailto:amjad.ibrahim0909@gmail.com)
+** Email:** [amjad.ibrahim0909@gmail.com](mailto:amjad.ibrahim0909@gmail.com)
 
 ---
 
