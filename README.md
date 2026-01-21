@@ -10,7 +10,7 @@ Ich entwickle skalierbare Backend-Systeme und lege besonderen Wert auf saubere A
 ###  **Shop API** - Spring Boot E-Commerce Backend
 Ein vollständiges E-Commerce Backend mit allen wesentlichen Funktionen eines Online-Shops.
 
-** Features:**
+**Features:**
 -  **Produktverwaltung** - CRUD-Operationen mit DTOs und Mappern
 -  **Warenkorb-System** - Intelligenter Warenkorb mit Preisberechnung
 -  **Benutzerverwaltung** - Registrierung und Profilverwaltung
@@ -19,7 +19,7 @@ Ein vollständiges E-Commerce Backend mit allen wesentlichen Funktionen eines On
 -  **Validierung** - Umfassende Input-Validierung
 -  **Fehlerbehandlung** - Konsistente Fehlerantworten
 
-** Technologien:**
+**Technologien:**
 - Java 17, Spring Boot 3.x, Spring Data JPA
 - H2/MySQL, Lombok, Maven
 - DTO-Pattern, manuelle Mapper, Layered Architecture
@@ -95,7 +95,7 @@ Demonstration einer verteilten Microservices-Architektur mit:
 
 ##  Kontakt
 
-** Email:** [amjad.ibrahim0909@gmail.com](mailto:amjad.ibrahim0909@gmail.com)
+**Email:** [amjad.ibrahim0909@gmail.com](mailto:amjad.ibrahim0909@gmail.com)
 
 ---
 
